@@ -10,7 +10,8 @@
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-vieira-174b931b2/)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rodrigo12663)](https://github.com/rodrigo12663/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/rodrigo12663/github-readme-stats)
+
 
 
 
