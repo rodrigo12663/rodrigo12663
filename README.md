@@ -1,6 +1,6 @@
 
 
-### Hi 👋
+### olá meu nome é Rodrigo 👋
 ## Desenvolvedor de sistemas
 
 - 🔭 estudando nodeJS e reactJS.
