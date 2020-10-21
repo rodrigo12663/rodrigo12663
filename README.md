@@ -4,7 +4,7 @@
 ## Desenvolvedor de sistemas
 
 - 🔭 estudando nodeJS e reactJS.
-- 🤝 consigo desenvolver em equipe. 
+- 🤝 gosto de trabalhar em equipe. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rodrigo12663)
 
