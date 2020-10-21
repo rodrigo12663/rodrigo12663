@@ -1,6 +1,6 @@
 
 
-### Olá meu nome é Rodrigo 👋
+### Olá me chamo Rodrigo Vieira Nunes 👋
 ## Desenvolvedor de sistemas
 
 - 🔭 estudando nodeJS e reactJS.
