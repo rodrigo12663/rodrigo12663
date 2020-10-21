@@ -1,15 +1,8 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
 
 ### Hi 👋
-
 ## Desenvolvedor de sistemas
- 
 
-![YOUR github stats](https://github.com/rodrigo12663)
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
-### Hi 👋
 - 🔭 estudando nodeJS e reactJS.
 - 🤝 consigo desenvolver em equipe. 
 
