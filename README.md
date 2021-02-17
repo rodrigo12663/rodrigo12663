@@ -3,7 +3,7 @@
 ### Olá me chamo Rodrigo Vieira Nunes 👋
 ## Desenvolvedor de sistemas
 
-- 🔭 estudando nodeJS e reactJS, typescript e docker.
+- 🔭 estudando as  tecnologias com boas práticas.
 - 🤝 gosto de trabalhar em equipe. 
 
 
